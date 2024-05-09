@@ -12,5 +12,16 @@
     "name": "table",
     "url": "table.html",
     "icon": "grid-fill"
+  },
+  {
+    "name": "DayBook",
+    "key": "daybook",
+    "icon": "stack",
+    "submenu": [
+      {
+        "name": "Date",
+        "url": "daybook-date.html"
+      }
+    ]
   }
 ]
